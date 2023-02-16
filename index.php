@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>Vinith Application </h1>
-		<p><b>DanskeIT Training Day4 </b></p>
+		<p><b>Danske Bank SCD</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information </h2> 
